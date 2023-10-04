@@ -6,7 +6,7 @@ CPSC 350 04
 # Filecap
 
 ## Contains filecap.cpp  
-* returns test.txt into <outputfile> with inverted capitalization
+* returns test.txt into < outputfile > with inverted capitalization
 
 **Build Instructions:**  
 ```bash
