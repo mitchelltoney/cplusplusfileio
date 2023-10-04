@@ -11,5 +11,5 @@ CPSC 350 04
 **Build Instructions:**  
 ```bash
 g++ filecap.cpp -o filecap
-./filecap
+./filecap test2.txt
 ```
