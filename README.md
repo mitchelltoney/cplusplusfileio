@@ -1,15 +1,15 @@
 Mitchell Toney  
 ID: 2423301  
 mtoney@chapman.edu  
-CPSC 350 04  
+CPSC 298 01 
 
-# Filecap
+# Files&Functions
 
-## Contains filecap.cpp  
-* returns test.txt into _outputfile_ with inverted capitalization
+## Contains filefunctions.cpp  
+* returns line by line operations into `output.txt`
 
 **Build Instructions:**  
 ```bash
-g++ filecap.cpp -o filecap
-./filecap test2.txt
+g++ filefunctions.cpp -o file
+./file
 ```
